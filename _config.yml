@@ -1,0 +1,12 @@
+title: LawMillion Legal Guides
+description: Plain-English guides to US legal questions from LawMillion. General information only, not legal advice.
+url: https://shailesh0905.github.io
+baseurl: /lawmillion-legal-guides
+theme: minima
+permalink: /:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md
